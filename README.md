@@ -17,3 +17,18 @@ Este curso es ideal para cualquiera que quiera obtener conocimientos sobre el mu
 Los estudiantes ganarán con nosotros habilidad práctica sobre estos campos y podrán aplicarlos de manera inmediata en sus proyectos. Además, tendrán acceso a todo el material del curso e incluso ganarán un certificado de finalización del curso al completar el mismo, que podrá compartirse en redes sociales como LinkedIn para mostrar las nuevas habilidades en Git y GitHub. 
 
 ¡Nos vemos en clase!
+
+## ¿Qué vamos a aprender?
+
+En este curso aprenderemos todo lo necesario sobre control de versiones con Git y GitHub
+
+* Entender qué es y cómo funciona Git
+* GitHub con todo detalle
+* Primeros pasos sobre el uso del control de versiones
+* Entender la creación y la administración de ramas (Branching)
+* Ver el proceso, los pasos y las técnicas de merging
+* Estructurar el proyecto con distintas versiones
+* Entender el potencial del almacenamiento temporal (Stashing)
+* Creación y administración de Issues y Milestones
+* Adoptar cambios en tiempo real con un proyecto real y otros desarrolladores
+* Almacenamiento de nuestro código en repositorios compartidos por distintos desarrolladores
