@@ -32,3 +32,9 @@ En este curso aprenderemos todo lo necesario sobre control de versiones con Git 
 * Creación y administración de Issues y Milestones
 * Adoptar cambios en tiempo real con un proyecto real y otros desarrolladores
 * Almacenamiento de nuestro código en repositorios compartidos por distintos desarrolladores
+
+## Requisitos del curso
+
+Aunque el curso en sí no tiene prerrequisitos, para seguirlo fácilmente te recomendamos:
+
+* Tener un ordenador con conexión a internet y con cualquier sistema operativo instalado y saber utilizarlo a nivel básico de usuario
