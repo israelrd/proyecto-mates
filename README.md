@@ -1,3 +1,7 @@
-Esto será un fichero para mostrar los commits a revertir. El cliente ya puede seguir utilizando nuestro proyecto de mates.
+# Curso de Git y GitHub de la A a la Z: Todo sobre el control de versiones
 
-Modificando el fichero de README desde Visual Studio Code.
+* ¿Quieres aprender a dominar a la perfección un Sistema de Control de Versiones Distribuido?
+* ¿Te aterroriza perder tu código después de estar horas trabajando?
+* ¿Eres un desarrollador con habilidades en algún lenguaje de programación que quieres seguir unas buenas prácticas de almacenamiento de código y de Integración y Entrega Continua (CI/CD^2)?
+
+Si la respuesta a alguna de estas preguntas es sí, entonces este curso es para ti. 
